@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+![Alt Text for Image 1](path/to/Screenshot%202024-10-18%20194744.png)
+
+![Alt Text for Image 2](path/to/Screenshot%202024-10-18%20194635.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
