@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ![Alt Text for Image 1](https://github.com/soumyajitjalua1/Flutter-mobile-app/blob/main/Screenshot%202024-10-18%20194635.png)
-![Alt Text for Image 2](https://github.com/soumyajitjalua1/Flutter-mobile-app/blob/main/Screenshot%202024-10-18%20194635.png)
+![Alt Text for Image 2](https://github.com/soumyajitjalua1/Flutter-mobile-app/blob/main/Screenshot%202024-10-18%20194744.png)
 
 
 ## Getting Started
